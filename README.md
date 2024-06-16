@@ -27,6 +27,6 @@ Bird eye view of the project:
 Data directory is uploaded in zenodo at link below.  
 
 </a>
-<a href="https://doi.org/10.5281/zenodo.7790931">
-        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7790931.svg" alt="DOI">
+<a href="https://doi.org/10.5281/zenodo.11799888">
+        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11799888.svg" alt="DOI">
     </a>
